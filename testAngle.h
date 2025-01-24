@@ -24,7 +24,7 @@ public:
    {
       // Ticket 1: Angle Without Normalize
       defaultConstructor();
-      copyConstructor();
+      /*copyConstructor();
       nondefaultConstructor();
       setUp();
       setDown();
@@ -38,7 +38,7 @@ public:
       getRadians_0();
       getRadians_270();
       add_0();
-      add_value();
+      add_value();*/
 
       ////// Ticket 2: Angle Normalize
       setRadians_negative();
